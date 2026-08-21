@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=TeknoKonsole
+GenericName=TV Oyun Başlatıcısı
+Comment=Native Qt6/QML oyun launcher'ı
+Exec=TeknoKonsole
+Icon=TeknoKonsole
+Terminal=false
+Categories=Game;Utility;
+Keywords=Steam;Emulator;Gamepad;Launcher;Wayland;
+StartupWMClass=TeknoKonsole
